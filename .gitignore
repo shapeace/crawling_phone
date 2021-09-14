@@ -1,0 +1,34 @@
+# Pycharm project files
+.idea/
+
+# Virtual Env directory
+venv/
+
+# Log, PID
+*.log
+logs/
+run/
+pid/
+
+# INI
+#config/config.ini
+
+# pyc
+*.pyc
+
+# Python cache
+__pycache__/
+
+# Mac
+.DS_Store
+
+# Temp directory
+tmp/
+sample/
+
+# Save path
+imagelink/
+
+# CSV path
+#csv/
+#*.csv
