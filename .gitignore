@@ -32,3 +32,5 @@ imagelink/
 # CSV path
 #csv/
 #*.csv
+
+*.csv
